@@ -1,6 +1,6 @@
 # README
 
-## Project Readme - Melanoma Skin Cancer Detection
+## Melanoma Skin Cancer Detection
 
 **Introduction:**
 This project aims to develop a deep learning system for detecting Melanoma skin cancer using neural networks. The repository includes code files for data preparation, model development, and evaluation to create an automated tool for early detection of skin cancer.
